@@ -61,7 +61,7 @@ This dashboard provides insights into the sales performance across regions, prod
         ```
     - Snap of the Profit Margin Measure:
 
-      ![Uploading Screenshot 2024-10-25 235613.png…]()
+      ![Screenshot 2024-10-25 235613](https://github.com/user-attachments/assets/7326d211-317d-42fd-893e-43baaef6adfe)
 
 13. **Publishing**:
     - Published the dashboard to Power BI Service.
@@ -72,6 +72,8 @@ This dashboard provides insights into the sales performance across regions, prod
 
 **Power BI Desktop View**  
       ![Uploading Screenshot 2024-10-25 235613.png…]()
+      ![Uploading Screenshot 2024-10-25 235613.png…]()
+
 
 ---
 
