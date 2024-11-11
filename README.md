@@ -1,5 +1,12 @@
-# Sales Dashboard Analysis
+NAME - ADITI SONI
+COMPANY - CODETECH IT SOLUTIONS
+ID - CT08DS8707
+DOMAIN - POWER BI 
+DURATION- 1 MONTH
 
+# Sales Dashboard Analysis
+snapshot - 
+![Screenshot 2024-10-25 235613](https://github.com/user-attachments/assets/b027420c-7642-4716-992d-b666ad2a8394)
 
 ---
 
